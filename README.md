@@ -6,7 +6,7 @@ The website showcases fresh organic products with a clean green theme and modern
 ---
 
 ## 🚀 Live Demo
-[Add your live link here](https://pritikandalkar-dev.github.io/responsive-multipage-website/)
+[live link here](https://pritikandalkar-dev.github.io/responsive-multipage-website/)
 
 ---
 
